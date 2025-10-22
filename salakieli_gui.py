@@ -1,4 +1,4 @@
-#simple Salikeili decryptor 
+#simple Salikeili decryptor/encryptor
 #Built off of necauqua's command line on Discord
 #Codex for the GUI
 
